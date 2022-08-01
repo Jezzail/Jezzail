@@ -5,7 +5,7 @@ Web Developer
 -------------
 *   🎲  Nerd at heart
 *   🌍  I'm based in Korea
-*   🖥️  See my portfolio at [MyPortfolio](http://portfolio-lilac-chi-27.vercel.app/)
+*   🖥️  See my portfolio [HERE](http://portfolio-lilac-chi-27.vercel.app/)
 *   💻  Looking for remote job opportunities!
 *   ✉️  You can contact me at [pat43607@gmail.com](mailto:pat43607@gmail.com)
 *   🧠  Learning and improving my skills at React & friends!
