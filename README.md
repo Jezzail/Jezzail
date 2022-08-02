@@ -8,7 +8,7 @@ Web Developer
 *   🖥️  See my portfolio [patportfolio.dev](https://patportfolio.dev/)
 *   💻  Looking for remote job opportunities!
 *   ✉️  You can contact me at [pat43607@gmail.com](mailto:pat43607@gmail.com)
-*   🧠  Learning and improving my skills at React & friends!
+*   🧠  Learning and improving my skills with the React ecosystem!
 
 ### Skills
 <p align="left">
